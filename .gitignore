@@ -1,0 +1,4 @@
+ml-latest-small/
+__pycache__/
+*.pyc
+.env
